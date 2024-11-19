@@ -1,2 +1,1 @@
 # footprint-finance-tracker
-d
